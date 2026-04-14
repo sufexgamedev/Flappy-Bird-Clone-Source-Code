@@ -24,11 +24,10 @@ This project was created as my first step into Unity Game Engine to learn:
 ## 📂 How to Play
 - Tap to make the bird jump
 - Avoid hitting pipes
-- Try to beat your high score!
 
 ## Developer
 **Abu Sufiyan Arshad**
-My Brand Name: **Sufex Gamedev**
+(My Brand Name: **Sufex Gamedev**)
 
 ## 📌 Note
 This is a beginner project and part of my learning journey.
