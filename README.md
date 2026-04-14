@@ -21,7 +21,10 @@ This project was created as my first step into Unity Game Engine to learn:
 - Scripting in C#
 - Game loop and mechanics
 
-## 📂 How to Play
+# How to Download Game (Available for Android)
+- Download APK By Clicking Here: https://github.com/sufexgamedev/Flappy-Bird-Clone-Source-Code/releases
+
+## How to Play
 - Tap to make the bird jump
 - Avoid hitting pipes
 
@@ -30,4 +33,4 @@ This project was created as my first step into Unity Game Engine to learn:
 (My Brand Name: **Sufex Gamedev**)
 
 ## 📌 Note
-This is a beginner project and part of my learning journey.
+This is my first Unity project and the part of my learning journey.
